@@ -1,1 +1,1 @@
-# tcp-gui-chat
+multithreading, java fx gui, tcp sockets
